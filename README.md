@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá pessoal, tudo bem? 👍✌🤙
 
-<!--
-**melquibaraujo/melquibaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Melquisedeque Araújo🧑🏽. Sou Eletrotécnico👷🏽‍♂️⚡, Técnico em Informática👨🏽‍🔧💻 e estudante de Análise e Desenvolvimento de Sistemas👨🏽‍🎓. Criei este GitHub com o objetivo de armazenar as atividades que venho estudando atualmente num repositório online.
 
-Here are some ideas to get you started:
+Sempre fui fascinado pela arte e programação que envolve os jogos:video_game::game_die: e estou iniciando minha carreira como programador nessa área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### 📚**Referência de jogos**
+
+- _Sonic Hedgehog_ 
+- _Super Mario World_ 
+- _Terraria_
+
+###### 🤸**Hobbies**
+
+- _Eletrônica_
+- _Programação_
+- _Desmontar coisas_
+
+![melquibaraujo GitHub stats](https://github-readme-stats.vercel.app/api?username=melquibaraujo&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melquibaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+📍Pernambuco, Brasil
+
+- **[Linkedin](https://www.linkedin.com/in/melquibaraujo/)**
